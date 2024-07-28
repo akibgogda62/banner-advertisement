@@ -4,8 +4,8 @@ Plugin Name: Banner Advertisement
 Plugin URI: 
 Description: A custom plugin for displaying banner advertisement.
 Version: 1.0
-Author: Acquaint Softtech
-Author URI: https://acquaintsoft.com/
+Author: Aakib Gogda
+Author URI: https://github.com/akibgogda62/
 */
 
 require_once plugin_dir_path(__FILE__) . "settings.php";
